@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+  <title>Catálogo de Residuos</title>
+</head>
+<body>
+  <div class="headerin">
+        <h1>CLIN CAP!</h1>
+        <h2>Reciclar también puede ser divertido</h2>
+    </div>
+  <h2>Lista de Residuos</h2>
+
+  <div>
+    <label><input type="checkbox" name="contenedor" value="marrón"> Orgánico (marrón)</label>
+    <label><input type="checkbox" name="contenedor" value="azul"> Papel (azul)</label>
+    <label><input type="checkbox" name="contenedor" value="amarillo"> Plástico (amarillo)</label>
+    <label><input type="checkbox" name="contenedor" value="verde"> Vidrio (verde)</label>
+    <label><input type="checkbox" name="contenedor" value="negro"> El resto (negro)</label>
+    <button id="search-button">Filtrar</button>
+  </div>
+
+  <h2>Dónde encontrar puntos de reciclaje</h2>
+  <div id="catalogo"></div>
+     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3162.924748502045!2d-122.08424958468989!3d37.42199977982592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb0ac5b4b1f3f%3A0x4d25956abf8e1ebf!2sGoogleplex!5e0!3m2!1sen!2sus!4v1614038050639!5m2!1sen!2sus"
+  width="600"
+  height="450"
+  style="border:0;"
+  allowfullscreen=""
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+
+
+  <script src="lista.js"></script>
+</body>
+</html>

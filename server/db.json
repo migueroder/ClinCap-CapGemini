@@ -1,0 +1,93 @@
+{
+    "residuos":[
+    {
+        "id": "1",
+        "producto": "Botellas de plástico",
+        "contenedor": "amarillo"
+    },
+    {
+        "id": "2",
+        "producto": "Briks",
+        "contenedor": "amarillo"
+    },
+    {
+        "id": "3",
+        "producto": "Hueveras",
+        "contenedor": "amarillo"
+    },
+    {
+        "id": "4",
+        "producto": "Film transparente y papel de aluminio",
+        "contenedor": "amarillo"
+    },
+    {
+        "id": "5",
+        "producto": "Chapas y tapas de metal",
+        "contenedor": "amarillo"
+    },
+    {
+        "id": "6",
+        "producto": "Botellas de vidrio",
+        "contenedor": "verde"
+    },
+    {
+        "id": "7",
+        "producto": "Frascos de perfume de vidrio",
+        "contenedor": "verde"
+    },
+    {
+        "id": "8",
+        "producto": "Tarros de alimentos de vidrio",
+        "contenedor": "verde"
+    },
+    {
+        "id": "9",
+        "producto": "Botellas de vidrio",
+        "contenedor": "verde"
+    },
+    {
+        "id": "10",
+        "producto": "Folios, sobres",
+        "contenedor": "azul"
+    },
+    {
+        "id": "11",
+        "producto": "Periódicos y revistas",
+        "contenedor": "azul"
+    },
+    {
+        "id": "12",
+        "producto": "Hueveras de cartón",
+        "contenedor": "azul"
+    },
+    {
+        "id": "13",
+        "producto": "Restos de comida",
+        "contenedor": "marrón"
+    },
+    {
+        "id": "14",
+        "producto": "Restos de café/infusiones",
+        "contenedor": "marrón"
+    },
+    {
+        "id": "14",
+        "producto": "Restos de jardinería",
+        "contenedor": "marrón"
+    },
+    {
+        "id": "15",
+        "producto": "Pañales y compresas",
+        "contenedor": "negro"
+    },
+    {
+        "id": "16",
+        "producto": "Cerámica y porcelana",
+        "contenedor": "negro"
+    },
+    {
+        "id": "17",
+        "producto": "Plásticos que no sean envases",
+        "contenedor": "negro"
+    }
+]}

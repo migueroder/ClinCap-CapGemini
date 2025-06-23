@@ -1,0 +1,70 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f8f5;
+    color: #2e5339;
+    margin: 0;
+    padding: 0 2em;
+  }
+
+  h1 {
+    text-align: center;
+    color: #2e7d32;
+    font-size: 2.5em;
+    margin-top: 1em;
+  }
+
+  h2 {
+    color: #4e944f;
+    margin-top: 1.5em;
+  }
+
+  .ficha {
+    border: 1px solid #c8e6c9;
+    border-radius: 10px;
+    background-color: #ffffff;
+    padding: 1em;
+    margin: 1em 0;
+    box-shadow: 0 2px 6px rgba(0, 128, 0, 0.1);
+  }
+
+  label {
+    display: inline-block;
+    margin: 0.5em 1em 0.5em 0;
+    background-color: #e8f5e9;
+    padding: 0.5em 1em;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  label:hover {
+    background-color: #c5e1a5;
+  }
+
+  input[type="checkbox"] {
+    margin-right: 0.5em;
+  }
+
+  button#search-button {
+    background-color: #66bb6a;
+    color: white;
+    border: none;
+    padding: 0.6em 1.2em;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1em;
+    margin-left: 1em;
+    transition: background-color 0.3s;
+  }
+
+  button#search-button:hover {
+    background-color: #4caf50;
+  }
+
+  iframe {
+    display: block;
+    margin: 2em auto;
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(34, 139, 34, 0.2);
+  }
